@@ -1,0 +1,22 @@
+# Jekyll configuration for GitHub Pages
+title: "MVT Privacy Policy"
+description: "Privacy Policy for My Vitamin Tracker iOS App"
+baseurl: ""
+url: "https://ktvishi.github.io/MVT-Privacy"
+
+# GitHub Pages settings
+repository: ktvishi/MVT-Privacy
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
+
+# Include files
+include:
+  - privacy_policy.html
+  - PRIVACY_POLICY.md
