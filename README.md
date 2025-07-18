@@ -1,6 +1,6 @@
 # MVT Privacy Policy Repository
 
-This repository hosts the privacy policy for **My Vitamin Tracker (MVT)** iOS app.
+This repository hosts the privacy policy for **My Vitamins Tracker (MVT)** iOS app.
 
 ## 🌐 **Live Privacy Policy**
 
@@ -15,7 +15,7 @@ This repository hosts the privacy policy for **My Vitamin Tracker (MVT)** iOS ap
 - `index.html` - Redirect page to privacy policy
 - `_config.yml` - Jekyll configuration for GitHub Pages
 
-## 📱 **About My Vitamin Tracker (MVT)**
+## 📱 **About My Vitamins Tracker (MVT)**
 
 MVT is an iOS app that provides comprehensive information about vitamins and supplements, including:
 - Detailed vitamin database with 20+ vitamins and minerals
@@ -47,4 +47,4 @@ Our privacy policy complies with:
 ---
 
 **Last Updated**: December 2024  
-**Contact**: [Contact information in privacy policy]
+**Contact**: https://myvitaminstracker.com/support
